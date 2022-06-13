@@ -1,21 +1,9 @@
 ///////////////////////////////////////////////////////////
-//  CPSC-112 CLASS PROJECT - README.txt
+//  README.txt
 //
 //  Team Members: Yuchen Tan
-//  TA (who you demoed to): Yoyo
 //
 //  Project Title: Virtual Pet Maniac
-//
-//  Note: Please submit the following:
-//    (1) REPORT.txt, 
-//    (2) All that is needed to compile and run your program 
-//        (a zip file of the project directory can be a good 
-//        approach), and  
-//    (3) README.txt on how to execute your program. If it is
-//      deployed on the Web, please provide a link. 
-//
-//    Only one submission is necessary, but don't forget to 
-//    add your team members on Gradescope.
 ///////////////////////////////////////////////////////////
 
 
