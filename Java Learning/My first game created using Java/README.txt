@@ -1,8 +1,7 @@
 ///////////////////////////////////////////////////////////
-//  CPSC-112 CLASS PROJECT - README.txt
+//  PROJECT - README.txt
 //
 //  Team Members: Yuchen Tan
-//  TA (who you demoed to): Yoyo
 //
 //  Project Title: Virtual Pet Maniac
 //
