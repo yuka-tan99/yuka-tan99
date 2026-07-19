@@ -1,4 +1,4 @@
-Howdy, I’m Yuchen. My skillsets includes moving my ears, and maybe SQL, python
+Howdy, I’m Yuchen. My skillsets include moving my ears, and maybe SQL, python
 
 <!---
 yuka-tan99/yuka-tan99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
